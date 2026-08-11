@@ -1,2 +1,2 @@
 # python-number-guessing-game
-A simple Python calculator for a corner shop's income and net profit.
+A simple Python number guessing game with limited attempts and difficulty.
